@@ -4,7 +4,7 @@
     "website": "https://github.com/microsoft/DialoGPT",
     "logo": "https://avatars.githubusercontent.com/u/10292224?s=400&v=4",
     "image_link": [
-        "https://raw.githubusercontent.com/microsoft/DialoGPT/master/imgs/dialogpt_logo.png"
+        "https://huggingface.co/front/thumbnails/dialogpt.png"
     ],
     "input_output_examples": [
         {

@@ -3,7 +3,9 @@
     "description": "Facebook AI is a collection of tools and technologies developed by Facebook to advance the field of artificial intelligence.",
     "website": "https://ai.facebook.com/",
     "logo": "https://example.com/facebook-ai.png",
-    "image_link": null,
+    "image_link": [
+        "https://itchronicles.com/wp-content/uploads/2020/09/How-Facebook-uses-Artificial-intelligence-1024x576.jpg"
+    ],
     "input_output_examples": null,
     "features": {
         "1": {

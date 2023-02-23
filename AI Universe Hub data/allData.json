@@ -4,7 +4,7 @@
             "name": "ChatGPT",
             "id": "Chatgpt",
             "description": "ChatGPT is a large language model developed by OpenAI that can generate human-like responses in a conversation.",
-            "image": "https://example.com/chatgpt.png",
+            "image": "https://img.olhardigital.com.br/wp-content/uploads/2023/01/chatgpt_assistente.jpg",
             "published_in": "11/1/2022",
             "features": [
                 "Natural language processing",
@@ -41,10 +41,10 @@
             ]
         },
         {
-            "name": "Google TensorFlow",
+            "name": "Google Bard",
             "id": "Google_Bard",
-            "description": "TensorFlow is an open-source machine learning framework developed by Google.",
-            "image": "https://example.com/tensorflow.png",
+            "description": "Bard is an alternative developed by Google.",
+            "image": "https://cdn.4gnews.pt/imagens/google-bard-ai-comete-erro-e-isso-custou-milhoes-a-empresa-og.jpg",
             "published_in": "2/1/2023",
             "features": [
                 "Machine learning",
@@ -66,7 +66,7 @@
             "name": "Microsoft Bing",
             "id": "Microsoft_Bing",
             "description": null,
-            "image": "https://www.bing.com/sa/simg/bing_ovp_teal_800x600.jpg",
+            "image": "https://s3.amazonaws.com/images.seroundtable.com/bing-indexing-issues-1603799404.jpg",
             "published_in": "6/1/2009",
             "features": [
                 "Instant answers",
@@ -83,7 +83,7 @@
             "name": "Chatsonic",
             "id": "Chatsonic",
             "description": null,
-            "image": null,
+            "image": "https://startupstash.com/wp-content/uploads/2022/12/1671615999_chatsonic_cover_thumbnail.png",
             "published_in": "12/1/2021",
             "features": [
                 "Customer Support",
@@ -101,7 +101,7 @@
             "name": "Jasper Chat",
             "id": "Jasper_Chat",
             "description": "Jasper Chat is an open-source chatbot platform.",
-            "image": "https://example.com/jasper.png",
+            "image": "https://www.proremodeler.com/sites/proremodeler/files/Jasper%20copy.jpg",
             "published_in": "12/1/2022",
             "features": [
                 "Chatbot development",
@@ -123,7 +123,7 @@
             "name": "Character AI",
             "id": "Character_AI",
             "description": "Character AI is a content generation platform that uses AI.",
-            "image": "https://example.com/characterai.png",
+            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/maxresdefault.jpg",
             "published_in": "9/1/2021",
             "features": [
                 "Content generation",
@@ -145,7 +145,7 @@
             "name": "DialoGPT",
             "id": "DialoGPT",
             "description": "DialoGPT is an AI language model developed by Microsoft that can engage in a conversation with a human.",
-            "image": "https://example.com/dialogpt.png",
+            "image": "https://huggingface.co/front/thumbnails/dialogpt.png",
             "published_in": "3/1/2021",
             "features": [
                 "Conversational AI",
@@ -164,32 +164,10 @@
             ]
         },
         {
-            "name": "GPT-3 playground",
-            "id": "GPT-3_playground",
-            "description": "GPT-3 playground is a web-based interface that allows users to experiment with the GPT-3 language model.",
-            "image": "https://example.com/gpt3-playground.png",
-            "published_in": "11/1/2021",
-            "features": [
-                "Text generation",
-                "Natural language processing",
-                "API integration"
-            ],
-            "links": [
-                {
-                    "name": "Homepage",
-                    "url": "https://gpt3.org/"
-                },
-                {
-                    "name": "GitHub",
-                    "url": null
-                }
-            ]
-        },
-        {
             "name": "Rytr",
             "id": "Rytr",
             "description": "Rytr is an AI content generation platform that can help users with copywriting and content marketing.",
-            "image": "https://example.com/rytr.png",
+            "image": "https://bochickenstore.com/storage/large/ban-tai-khoan-rytr-g_1652155324.png",
             "published_in": "4/1/2022",
             "features": [
                 "Content generation",
@@ -211,7 +189,7 @@
             "name": "Copilot",
             "id": "Copilot",
             "description": "Copilot is an AI-powered code completion tool developed by OpenAI and GitHub.",
-            "image": "https://example.com/copilot.png",
+            "image": "https://github.githubassets.com/images/modules/site/social-cards/copilot-ga.png",
             "published_in": "7/1/2022",
             "features": [
                 "Code completion",
@@ -233,7 +211,7 @@
             "name": "Replika",
             "id": "Replika",
             "description": "Replika is an AI-powered chatbot that uses machine learning algorithms to simulate human conversation.",
-            "image": "https://example.com/replika.png",
+            "image": "https://cdn2.lamag.com/wp-content/uploads/sites/6/2023/01/replika2-ai.jpg",
             "published_in": "3/1/2018",
             "features": [
                 "AI-powered chatbot",
@@ -259,7 +237,7 @@
             "name": "Facebook AI",
             "id": "Facebook_AI",
             "description": "Facebook AI is a collection of tools and technologies developed by Facebook to advance the field of artificial intelligence.",
-            "image": "https://example.com/facebook-ai.png",
+            "image": "https://itchronicles.com/wp-content/uploads/2020/09/How-Facebook-uses-Artificial-intelligence-1024x576.jpg",
             "published_in": "10/1/2022",
             "features": [
                 "Computer vision",
