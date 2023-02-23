@@ -1,0 +1,66 @@
+{
+    "tool_name": "Microsoft Bing",
+    "description": "Microsoft Bing is a search engine developed by Microsoft that helps users find information on the internet.",
+    "website": "https://www.bing.com/",
+    "logo": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico",
+    "image_link": [
+        "https://www.bing.com/sa/simg/bing_ovp_teal_800x600.jpg"
+    ],
+    "input_output_examples": [
+        {
+            "input": "What is the population of New York City?",
+            "output": "According to the latest estimates, the population of New York City is approximately 8.3 million people."
+        },
+        {
+            "input": "What is the capital of France?",
+            "output": "The capital of France is Paris."
+        }
+    ],
+    "features": {
+        "1": {
+            "feature_name": "Instant answers",
+            "description": "Bing provides instant answers to common questions, such as the time, weather, or stock prices."
+        },
+        "2": {
+            "feature_name": "Video search",
+            "description": "Bing allows users to search for videos on the internet, and provides filters to refine search results based on length, resolution, and other criteria."
+        },
+        "3": {
+            "feature_name": "Image search",
+            "description": "Bing allows users to search for images on the internet, and provides filters to refine search results based on color, size, and other criteria."
+        }
+    },
+    "integrations": [
+        "Microsoft Edge",
+        "Windows Search",
+        "Microsoft Office"
+    ],
+    "use_cases": [
+        {
+            "name": "Research",
+            "description": "Bing can be used for research purposes, such as finding academic articles or statistics on a particular topic."
+        },
+        {
+            "name": "Shopping",
+            "description": "Bing can be used for shopping, allowing users to search for products and compare prices across different retailers."
+        },
+        {
+            "name": "Travel",
+            "description": "Bing can be used for travel planning, such as finding flights, hotels, and things to do in a particular destination."
+        }
+    ],
+    "pricing": [
+        {
+            "plan": "Free",
+            "price": "No cost"
+        },
+        {
+            "plan": "Microsoft Advertising",
+            "price": "Pricing varies depending on advertising campaign"
+        }
+    ],
+    "accuracy": {
+        "score": 0.89,
+        "description": "High accuracy for most search queries, but may have lower accuracy for specialized or obscure topics."
+    }
+}

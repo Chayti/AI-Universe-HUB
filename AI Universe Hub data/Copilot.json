@@ -1,0 +1,68 @@
+{
+    "tool_name": "GitHub Copilot",
+    "description": "GitHub Copilot is an AI-powered code autocompletion tool that uses OpenAI's GPT technology to suggest code snippets and completions based on natural language input.",
+    "website": "https://copilot.github.com/",
+    "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "image_link": [
+        "https://rewind.com/wp-content/uploads/2022/03/github-copilot-logo.jpeg"
+    ],
+    "input_output_examples": [
+        {
+            "input": "Create a function that takes a string and returns the string reversed.",
+            "output": "function reverseString(str) {\n return str.split('').reverse().join('');\n}"
+        },
+        {
+            "input": "Calculate the sum of all the numbers in an array.",
+            "output": "function sumArray(arr) {\n return arr.reduce((acc, curr) => acc + curr, 0);\n}"
+        }
+    ],
+    "features": {
+        "1": {
+            "feature_name": "Context-aware suggestions",
+            "description": "Copilot uses context to suggest code that is likely to be relevant and useful to the user."
+        },
+        "2": {
+            "feature_name": "Code snippet suggestions",
+            "description": "Copilot suggests complete code snippets, including function definitions and variable declarations."
+        },
+        "3": {
+            "feature_name": "Multilingual support",
+            "description": "Copilot can suggest code in multiple programming languages, making it useful for a wide range of projects."
+        }
+    },
+    "integrations": [
+        "GitHub"
+    ],
+    "use_cases": [
+        {
+            "name": "Code autocompletion",
+            "description": "Copilot can be used to speed up the process of writing code, by suggesting relevant code snippets and completions as the user types."
+        },
+        {
+            "name": "Learning and education",
+            "description": "Copilot can be used as a tool for learning and education, by providing suggestions and explanations of how code works."
+        },
+        {
+            "name": "Code review and debugging",
+            "description": "Copilot can be used to review and debug code, by suggesting alternative implementations and catching errors."
+        }
+    ],
+    "pricing": [
+        {
+            "plan": "Free",
+            "price": "No cost"
+        },
+        {
+            "plan": "Pro",
+            "price": "$9/month"
+        },
+        {
+            "plan": "Enterprise",
+            "price": "Contact us for pricing"
+        }
+    ],
+    "accuracy": {
+        "score": "Not applicable",
+        "description": "Copilot's accuracy depends on the quality of the training data and the context in which it is used."
+    }
+}

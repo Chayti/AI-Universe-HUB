@@ -1,0 +1,286 @@
+{
+    "tools": [
+        {
+            "name": "ChatGPT",
+            "id": "Chatgpt",
+            "description": "ChatGPT is a large language model developed by OpenAI that can generate human-like responses in a conversation.",
+            "image": "https://example.com/chatgpt.png",
+            "published_in": "November 30, 2022",
+            "features": [
+                "Natural language processing",
+                "Contextual understanding",
+                "Text generation"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://openai.com/chat-gpt/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/openai/gpt-2"
+                }
+            ]
+        },
+        {
+            "name": "YouChat 2.0",
+            "id": "YouChat_2.0",
+            "description": "No data found",
+            "image": "https://i.ytimg.com/vi/_LZzfpjepoY/maxresdefault.jpg",
+            "published_in": "December 2022",
+            "features": [
+                "Contextual understanding",
+                "Multi-platform support",
+                "Voice recognition"
+            ],
+            "links": [
+                {
+                    "name": "No data found",
+                    "url": "No data found"
+                }
+            ]
+        },
+        {
+            "name": "Google TensorFlow",
+            "id": "Google_Bard",
+            "description": "TensorFlow is an open-source machine learning framework developed by Google.",
+            "image": "https://example.com/tensorflow.png",
+            "published_in": "February 2023",
+            "features": [
+                "Machine learning",
+                "Deep learning",
+                "Neural networks"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://www.tensorflow.org/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/tensorflow/tensorflow"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft Bing",
+            "id": "Microsoft_Bing",
+            "description": "No data found",
+            "image": "https://www.bing.com/sa/simg/bing_ovp_teal_800x600.jpg",
+            "published_in": "June 3, 2009",
+            "features": [
+                "Instant answers",
+                "Video search"
+            ],
+            "links": [
+                {
+                    "name": "No data found",
+                    "url": "No data found"
+                }
+            ]
+        },
+        {
+            "name": "Chatsonic",
+            "id": "Chatsonic",
+            "description": "No data found",
+            "image": "No data found",
+            "published_in": "12 December",
+            "features": [
+                "Customer Support",
+                "Lead Generation",
+                "Personal Assistant"
+            ],
+            "links": [
+                {
+                    "name": "No data found",
+                    "url": "No data found"
+                }
+            ]
+        },
+        {
+            "name": "Jasper Chat",
+            "id": "Jasper_Chat",
+            "description": "Jasper Chat is an open-source chatbot platform.",
+            "image": "https://example.com/jasper.png",
+            "published_in": "Dec. 20, 2022",
+            "features": [
+                "Chatbot development",
+                "Integration with messaging platforms",
+                "Natural language processing"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://jasperproject.github.io/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/jasperproject/jasper-client"
+                }
+            ]
+        },
+        {
+            "name": "Character AI",
+            "id": "Character_AI",
+            "description": "Character AI is a content generation platform that uses AI.",
+            "image": "https://example.com/characterai.png",
+            "published_in": "September 2022",
+            "features": [
+                "Content generation",
+                "Copywriting",
+                "Natural language processing"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://www.characte.ai/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "No data found"
+                }
+            ]
+        },
+        {
+            "name": "DialoGPT",
+            "id": "DialoGPT",
+            "description": "DialoGPT is an AI language model developed by Microsoft that can engage in a conversation with a human.",
+            "image": "https://example.com/dialogpt.png",
+            "published_in": "March 27, 2022",
+            "features": [
+                "Conversational AI",
+                "Contextual understanding",
+                "Text generation"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://huggingface.co/microsoft/DialoGPT-medium"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/microsoft/DialoGPT"
+                }
+            ]
+        },
+        {
+            "name": "GPT-3 playground",
+            "id": "GPT-3_playground",
+            "description": "GPT-3 playground is a web-based interface that allows users to experiment with the GPT-3 language model.",
+            "image": "https://example.com/gpt3-playground.png",
+            "published_in": " November 2021",
+            "features": [
+                "Text generation",
+                "Natural language processing",
+                "API integration"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://gpt3.org/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "No data found"
+                }
+            ]
+        },
+        {
+            "name": "Rytr",
+            "id": "Rytr",
+            "description": "Rytr is an AI content generation platform that can help users with copywriting and content marketing.",
+            "image": "https://example.com/rytr.png",
+            "published_in": "April 2022",
+            "features": [
+                "Content generation",
+                "Copywriting",
+                "Natural language processing"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://rytr.me/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "No data found"
+                }
+            ]
+        },
+        {
+            "name": "Copilot",
+            "id": "Copilot",
+            "description": "Copilot is an AI-powered code completion tool developed by OpenAI and GitHub.",
+            "image": "https://example.com/copilot.png",
+            "published_in": "July 2022",
+            "features": [
+                "Code completion",
+                "Natural language processing",
+                "API integration"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://copilot.github.com/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/github/copilot"
+                }
+            ]
+        },
+        {
+            "name": "Replika",
+            "id": "Replika",
+            "description": "Replika is an AI-powered chatbot that uses machine learning algorithms to simulate human conversation.",
+            "image": "https://example.com/replika.png",
+            "published_in": "March 13",
+            "features": [
+                "AI-powered chatbot",
+                "Machine learning algorithms",
+                "Simulates human conversation"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://replika.ai/"
+                },
+                {
+                    "name": "Blog",
+                    "url": "https://medium.com/replika"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/replikaai"
+                }
+            ]
+        },
+        {
+            "name": "Facebook AI",
+            "id": "Facebook_AI",
+            "description": "Facebook AI is a collection of tools and technologies developed by Facebook to advance the field of artificial intelligence.",
+            "image": "https://example.com/facebook-ai.png",
+            "published_in": "September 29, 2022",
+            "features": [
+                "Computer vision",
+                "Natural language processing",
+                "Deep learning",
+                "Machine learning"
+            ],
+            "links": [
+                {
+                    "name": "Homepage",
+                    "url": "https://ai.facebook.com/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/facebookresearch"
+                },
+                {
+                    "name": "Research papers",
+                    "url": "https://research.fb.com/publications/"
+                }
+            ]
+        }
+    ]
+}

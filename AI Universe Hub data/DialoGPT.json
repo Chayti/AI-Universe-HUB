@@ -1,0 +1,62 @@
+{
+    "tool_name": "DialoGPT",
+    "description": "DialoGPT is an AI-powered conversational model developed by Microsoft that uses OpenAI's GPT technology to generate human-like responses in natural language conversations.",
+    "website": "https://github.com/microsoft/DialoGPT",
+    "logo": "https://avatars.githubusercontent.com/u/10292224?s=400&v=4",
+    "image_link": [
+        "https://raw.githubusercontent.com/microsoft/DialoGPT/master/imgs/dialogpt_logo.png"
+    ],
+    "input_output_examples": [
+        {
+            "input": "Hi, how are you doing today?",
+            "output": "I'm doing well, thank you for asking. How about you?"
+        },
+        {
+            "input": "Can you recommend a good restaurant in the area?",
+            "output": "Sure, how about trying out the Italian restaurant on 5th street? I've heard good things about it."
+        }
+    ],
+    "features": {
+        "1": {
+            "feature_name": "Multi-turn conversation",
+            "description": "DialoGPT can maintain context and carry out multi-turn conversations, allowing for more natural and engaging interactions."
+        },
+        "2": {
+            "feature_name": "Fine-tuning capabilities",
+            "description": "DialoGPT can be fine-tuned to produce custom responses based on specific contexts and inputs."
+        },
+        "3": {
+            "feature_name": "Open-source",
+            "description": "DialoGPT is an open-source project, allowing for greater transparency and community contributions."
+        }
+    },
+    "integrations": [
+        "Facebook Messenger",
+        "Slack",
+        "Telegram"
+    ],
+    "use_cases": [
+        {
+            "name": "Customer Service",
+            "description": "DialoGPT can be used to provide 24/7 customer service and support, answering common questions and resolving issues in a timely manner."
+        },
+        {
+            "name": "Virtual Assistant",
+            "description": "DialoGPT can be used as a virtual assistant, helping users manage their daily tasks and schedule."
+        },
+        {
+            "name": "Language Learning",
+            "description": "DialoGPT can be used to assist in language learning, providing conversational practice and feedback."
+        }
+    ],
+    "pricing": [
+        {
+            "plan": "Free",
+            "price": "No cost"
+        }
+    ],
+    "accuracy": {
+        "score": 0.94,
+        "description": "High accuracy for most natural language processing tasks."
+    }
+}

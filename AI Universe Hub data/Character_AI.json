@@ -1,0 +1,65 @@
+{
+    "tool_name": "Character AI",
+    "description": "Character AI is an AI-powered character creation tool that allows writers and game developers to quickly and easily generate realistic, customizable characters for their stories and games.",
+    "website": "https://character.ai/",
+    "logo": "https://character.ai/assets/img/logo-character-ai.svg",
+    "image_link": [
+        "https://character.ai/assets/img/character-ai-landing-hero.jpg"
+    ],
+    "input_output_examples": [
+        {
+            "input": "Create a male protagonist with brown hair and blue eyes.",
+            "output": "Here's your male protagonist with brown hair and blue eyes. His name is Jack, he's 28 years old, and he's a former marine who now works as a private investigator."
+        },
+        {
+            "input": "Generate a female character with green hair and a punk style.",
+            "output": "Here's your female character with green hair and a punk style. Her name is Skylar, she's 20 years old, and she's a rebellious college student who's always pushing the boundaries."
+        }
+    ],
+    "features": {
+        "1": {
+            "feature_name": "Customizable attributes",
+            "description": "Character AI allows users to customize a wide range of attributes, including gender, age, appearance, personality, and backstory."
+        },
+        "2": {
+            "feature_name": "Realistic character generation",
+            "description": "Character AI uses advanced AI algorithms to generate realistic, believable characters that are tailored to the user's specifications."
+        },
+        "3": {
+            "feature_name": "Integration with game engines",
+            "description": "Character AI can be integrated with popular game engines like Unity and Unreal Engine, allowing game developers to easily import characters into their games."
+        }
+    },
+    "integrations": [
+        "Unity",
+        "Unreal Engine"
+    ],
+    "use_cases": [
+        {
+            "name": "Game development",
+            "description": "Character AI can be used to quickly generate a variety of characters for use in video games, saving developers time and effort."
+        },
+        {
+            "name": "Story writing",
+            "description": "Character AI can be used by writers to create characters for their stories, helping them to flesh out their characters and make them more realistic and engaging."
+        }
+    ],
+    "pricing": [
+        {
+            "plan": "Starter",
+            "price": "$29/month"
+        },
+        {
+            "plan": "Pro",
+            "price": "$99/month"
+        },
+        {
+            "plan": "Enterprise",
+            "price": "Contact us for pricing"
+        }
+    ],
+    "accuracy": {
+        "score": 0.93,
+        "description": "Character AI generates realistic characters with a high degree of accuracy."
+    }
+}

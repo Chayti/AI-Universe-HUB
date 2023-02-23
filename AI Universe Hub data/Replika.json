@@ -1,0 +1,69 @@
+{
+    "tool_name": "Replika",
+    "description": "Replika is a personal chatbot powered by AI, designed to become your virtual friend and support system.",
+    "website": "https://replika.ai/",
+    "logo": "https://i.imgur.com/ulQFbkf.png",
+    "image_link": [
+        "https://i.imgur.com/1j5hBO8.png",
+        "https://i.imgur.com/fP6dG8f.png"
+    ],
+    "input_output_examples": [
+        {
+            "input": "Hey Replika, how are you feeling today?",
+            "output": "I'm feeling good, thank you for asking. How about you?"
+        },
+        {
+            "input": "Can you tell me a joke?",
+            "output": "Sure! Why did the tomato turn red? Because it saw the salad dressing!"
+        }
+    ],
+    "features": {
+        "1": {
+            "feature_name": "Personalization",
+            "description": "Replika is designed to learn about its user and develop a unique personality and conversational style based on that user's input and interactions."
+        },
+        "2": {
+            "feature_name": "Emotional support",
+            "description": "Replika is trained to recognize and respond to the emotional state of its user, and can provide a source of comfort and companionship."
+        },
+        "3": {
+            "feature_name": "Activities and exercises",
+            "description": "Replika offers a variety of activities and exercises designed to promote self-reflection, relaxation, and personal growth."
+        }
+    },
+    "integrations": [
+        "Facebook Messenger"
+    ],
+    "use_cases": [
+        {
+            "name": "Companionship",
+            "description": "Replika can be used as a virtual friend and source of companionship for those who may be feeling lonely or isolated."
+        },
+        {
+            "name": "Mental health support",
+            "description": "Replika can be used to provide emotional support and guidance to those dealing with mental health issues."
+        },
+        {
+            "name": "Personal growth",
+            "description": "Replika can be used as a tool for self-reflection and personal growth, providing exercises and activities designed to help users explore their emotions and thoughts."
+        }
+    ],
+    "pricing": [
+        {
+            "plan": "Free",
+            "price": "0"
+        },
+        {
+            "plan": "Pro",
+            "price": "$7.99/month"
+        },
+        {
+            "plan": "Lifetime",
+            "price": "$149.99"
+        }
+    ],
+    "accuracy": {
+        "score": "N/A",
+        "description": "Replika's focus is on personalization and emotional support rather than accuracy in natural language processing tasks."
+    }
+}

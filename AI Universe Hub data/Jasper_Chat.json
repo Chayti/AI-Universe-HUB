@@ -1,0 +1,71 @@
+{
+    "tool_name": "Jasper_Chat",
+    "description": "Jasper_Chat is an AI-powered chatbot platform that uses natural language processing to simulate human conversation.",
+    "website": "https://www.jasperchat.com/",
+    "logo": "https://www.jasperchat.com/assets/images/logo.png",
+    "image_link": [
+        "https://www.jasperchat.com/assets/images/home2.png",
+        "https://www.jasperchat.com/assets/images/home1.png"
+    ],
+    "input_output_examples": [
+        {
+            "input": "Hi, how are you?",
+            "output": "I'm doing well, thank you for asking. How can I assist you today?"
+        },
+        {
+            "input": "Can you help me find a hotel in New York?",
+            "output": "Sure, I'd be happy to help. What are your travel dates and budget?"
+        }
+    ],
+    "features": {
+        "1": {
+            "feature_name": "Contextual understanding",
+            "description": "Jasper_Chat can understand the context of a conversation and provide relevant responses based on previous interactions."
+        },
+        "2": {
+            "feature_name": "Multilingual support",
+            "description": "Jasper_Chat can handle multiple languages, making it suitable for global use."
+        },
+        "3": {
+            "feature_name": "Customizable branding",
+            "description": "Jasper_Chat can be customized to match a company's branding, including colors, logos, and messaging."
+        }
+    },
+    "integrations": [
+        "Facebook Messenger",
+        "Slack",
+        "Microsoft Teams"
+    ],
+    "use_cases": [
+        {
+            "name": "Customer Support",
+            "description": "Jasper_Chat can be used to provide 24/7 customer support, answering common questions and resolving issues in a timely manner."
+        },
+        {
+            "name": "Lead Generation",
+            "description": "Jasper_Chat can be used to generate leads by collecting contact information and qualifying potential customers."
+        },
+        {
+            "name": "E-Commerce",
+            "description": "Jasper_Chat can be used in e-commerce to provide personalized product recommendations, answer questions about products, and process orders."
+        }
+    ],
+    "pricing": [
+        {
+            "plan": "Basic",
+            "price": "$99/month"
+        },
+        {
+            "plan": "Pro",
+            "price": "$299/month"
+        },
+        {
+            "plan": "Enterprise",
+            "price": "Contact us for pricing"
+        }
+    ],
+    "accuracy": {
+        "score": 0.92,
+        "description": "High accuracy for most natural language processing tasks."
+    }
+}
