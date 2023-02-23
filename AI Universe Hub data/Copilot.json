@@ -62,7 +62,7 @@
         }
     ],
     "accuracy": {
-        "score": "Not applicable",
+        "score": null,
         "description": "Copilot's accuracy depends on the quality of the training data and the context in which it is used."
     }
 }

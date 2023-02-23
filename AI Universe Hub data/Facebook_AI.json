@@ -3,8 +3,8 @@
     "description": "Facebook AI is a collection of tools and technologies developed by Facebook to advance the field of artificial intelligence.",
     "website": "https://ai.facebook.com/",
     "logo": "https://example.com/facebook-ai.png",
-    "image_link": [],
-    "input_output_examples": [],
+    "image_link": null,
+    "input_output_examples": null,
     "features": {
         "1": {
             "feature_name": "Computer vision",
@@ -23,9 +23,9 @@
             "description": "Facebook AI includes tools for machine learning, including algorithms for predictive modeling, clustering, and anomaly detection."
         }
     },
-    "integrations": [],
-    "use_cases": [],
-    "pricing": [],
+    "integrations": null,
+    "use_cases": null,
+    "pricing": null,
     "accuracy": {
         "score": null,
         "description": "Accuracy varies depending on the specific tool or technology being used."

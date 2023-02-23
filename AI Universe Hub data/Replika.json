@@ -63,7 +63,7 @@
         }
     ],
     "accuracy": {
-        "score": "N/A",
+        "score": null,
         "description": "Replika's focus is on personalization and emotional support rather than accuracy in natural language processing tasks."
     }
 }

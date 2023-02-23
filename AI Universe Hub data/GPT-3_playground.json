@@ -30,7 +30,7 @@
             "description": "GPT-3 Playground allows users to fine-tune GPT-3 models on their own datasets and tasks."
         }
     },
-    "integrations": [],
+    "integrations": null,
     "use_cases": [
         {
             "name": "Creative writing",
