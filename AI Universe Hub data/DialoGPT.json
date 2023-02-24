@@ -53,6 +53,14 @@
         {
             "plan": "Free",
             "price": "No cost"
+        },
+        {
+            "plan": "Pro",
+            "price": "No cost"
+        },
+        {
+            "plan": "Enterprise",
+            "price": "Contact us for pricing"
         }
     ],
     "accuracy": {

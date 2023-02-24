@@ -55,8 +55,12 @@
             "price": "No cost"
         },
         {
+            "plan": "Pro",
+            "price": "No cost"
+        },
+        {
             "plan": "Microsoft Advertising",
-            "price": "Pricing varies depending on advertising campaign"
+            "price": "Contact us "
         }
     ],
     "accuracy": {
